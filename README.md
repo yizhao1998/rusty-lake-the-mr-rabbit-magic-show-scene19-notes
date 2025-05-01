@@ -1,4 +1,7 @@
-# rusty-lake-the-mr-rabbit-magic-show-scene19-notes
+# Rusty Lake The Mr. Rabbit Magic Show Scene 19 Resolver
+[The Mr. Rabbit Magic Show](https://blog.rustylake.com/the-mr-rabbit-magic-show-out-now/)
+
+[Official Trailer](https://www.youtube.com/watch?v=ZRIveEZu9jk&t=1s)
 
 To run:
 ```
@@ -26,4 +29,6 @@ Result:
 2 2
 ```
 
-Enjoy.
+Note: Rows are indexed top-to-down (0-3), Columns are indexed left-to-right (0-3).
+
+Happy birthday rusty lake, Enjoy.
