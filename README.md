@@ -1,10 +1,13 @@
 # rusty-lake-the-mr-rabbit-magic-show-scene19-notes
 
 To run:
-$ g++ -std=c++11 main.cpp
+```
+$ g++ -std=c++11 main.cp
 $ ./a.out
+```
 
 Result:
+```
 3 3
 3 2
 2 3
@@ -21,6 +24,6 @@ Result:
 3 0
 3 1
 2 2
-Note: Rows are indexed top-to-down (0-3), Columns are indexed left-to-right (0-3).
+```
 
 Enjoy.
